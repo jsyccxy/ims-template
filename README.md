@@ -2,10 +2,15 @@ The K-means algorithm is a very common unsupervised clustering method. It is nec
 
 
 K-Means algorithm steps:
+
     1. Initialize the number K of clusters and randomly select K cluster centers.
+    
     2. Repeat the following steps until the cluster center no longer changes:
+    
         a. Calculate the distance from each data sample to the cluster center and divide the data samples into the nearest cluster.
+        
         b. Calculate the mean of each dimension of all data in each cluster as the new cluster center for each cluster.
+        
     3. Output the data samples gathered by each cluster.
     
     
