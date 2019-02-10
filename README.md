@@ -9,8 +9,8 @@ K-Means algorithm steps:
     3. Output the data samples gathered by each cluster.
     
     
-    the distance i calculated is the Euclidean Distance:
-        ![image text](https://github.com/jsyccxy/ims-template/blob/master/img-folder/caldis.png)
+the distance we calculated is Euclidean Distance:
+![image]
     
     
 
