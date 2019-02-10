@@ -33,4 +33,8 @@ To read the wifigdansk.csv file, firstly i tried to used the opencsv.jar, but wh
    
    ![image text](https://github.com/jsyccxy/ims-template/blob/master/img-folder/print.png)
    
+   After running the test code, we can use the jmathpolt.jar to draw all the clusters :
+   
+   ![image text](https://github.com/jsyccxy/ims-template/blob/master/img-folder/picture.png)
+   
    
