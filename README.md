@@ -10,10 +10,13 @@ K-Means algorithm steps:
     
     
 the distance we calculated is Euclidean Distance:
-![image]
-    
-    
 
+![image text](https://github.com/jsyccxy/ims-template/blob/master/img-folder/caldis.png)
 
-
-
+To read the wifigdansk.csv file, firstly i tried to used the opencsv.jar, but when i runthe code , it shows a problem that:
+   The first line of the wifigdansk.csv file is "?54.382059", and because of this kind of problem, my kmeans code cannot work 
+   properly. so I learned from my college Luckson's csvread file,  the code read the file devided by ",", and for the third anf fourth column, the third column is the x coordinate and the fourth column is y coordinate.
+   
+   in my code, i set a random center point first:
+   
+   ![image text]
