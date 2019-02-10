@@ -10,6 +10,7 @@ K-Means algorithm steps:
     
     
     the distance i calculated is the Euclidean Distance:
+        ![image text](https://github.com/jsyccxy/ims-template/blob/master/img-folder/caldis.png)
     
     
 
