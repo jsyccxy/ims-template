@@ -19,4 +19,18 @@ To read the wifigdansk.csv file, firstly i tried to used the opencsv.jar, but wh
    
    in my code, i set a random center point first:
    
-   ![image text]
+   ![image text](https://github.com/jsyccxy/ims-template/blob/master/img-folder/initial.png)
+   
+   after set the initial point , we have to calculate the distance of other points in the cluster :
+   
+   ![image text](https://github.com/jsyccxy/ims-template/blob/master/img-folder/distan.png)
+   
+   then after calculate the distance, find the mean value of the distance value and set the mean vale as the new center point:
+   
+   ![image text](https://github.com/jsyccxy/ims-template/blob/master/img-folder/new.png)
+   
+   when the code finish the iteration, or the error is small than we set, print the result of the code:
+   
+   ![image text](https://github.com/jsyccxy/ims-template/blob/master/img-folder/print.png)
+   
+   
